@@ -23,4 +23,15 @@ Here's a list of stuff that's blocking me from moving ahead with my work:
 - I missed last class due to some unforseen circumstances
 - Feel a little bit behind
 - don't know if I can do this independent or if I have to join a team.
+
+## Feb 2nd
+
+Last time, I worked on {Joining team pluto and figuring out what I wanted to code}.
+
+Today, I'm going to work on {Research how to build a tally tracker using HTML/CSS/JS for a chess rilvary within my family. }.
+
+Here's a list of stuff that's blocking me from moving ahead with my work:
+
+- Nothing is blocking me at this moment.
+ 
  
