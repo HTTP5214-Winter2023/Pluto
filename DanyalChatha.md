@@ -28,7 +28,7 @@ Here's a list of stuff that's blocking me from moving ahead with my work:
 
 Last time, I worked on {Joining team pluto and figuring out what I wanted to code}.
 
-Today, I'm going to work on {Research how to build a tally tracker using HTML/CSS/JS for a chess rilvary within my family. }.
+Today, I'm going to work on {Research how to build a tally tracker using HTML/CSS/JS for a chess rilvary within my family. Starting to build out the HTML for the tally tracker }.
 
 Here's a list of stuff that's blocking me from moving ahead with my work:
 
