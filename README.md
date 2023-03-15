@@ -19,28 +19,62 @@ The KANBAN Trello board is not being used, feature tracking is not available
 
 # Standup Meeting Notes
 
-## Feb 22nd, 2023
 
+## March 8, 2023
+
+Scrum Master: Anurag
+Notes: Najib
+
+Anurag
+Done: Getting simple player data
+Working on: using multi player search
+Next Step: Make the application more user friendly by launching app via shortcut and reading input from clipboard
+Blocking: No Block
+
+Shavin
+Done: Api endpoints finished
+Next step: advanced complexity
+Blocking: chaining functions
+
+Andrew
+Done:Understanding Plugin Code
+Next Step: Playing around with Plugin Code to make it work with instruments
+Blocking: Some functionalities not working properly
+
+Danyal Chatha 
+Working on: Coding the JavaScript Logic into the application
+Next Step: Make the application more user friendly
+Blocking: Nothing is blocking me
+
+Najib 
+Done: Researching and finding an API to use
+next Step: start coding the HTML/CSS portion of the project
+Blocking: No Block
+
+Gajendra
+Working on:Javascript coding to get user login with athentication. 
+Next step:Trying to make the application more secure and friendly 
+Blocking:No Block
+
+## Feb 22nd, 2023
 Scrum master: Shavin
 
 Notes: Andrew
 
-- We started a kanban board and each added some stickies/tasks.
-- had a meeting. Start putting docs together and organizing for report due on friday.
-
-Gajendra:  Working on refining the CSS sector and JavaScript part . And my Blocking is: Having issue with transmitting data to users. But for this I am taking notes /researching to fix the bugs.
+We started a kanban board and each added some stickies/tasks.
+had a meeting. Start putting docs together and organizing for report due on friday.
+Gajendra: Working on refining the CSS sector and JavaScript part . And my Blocking is: Having issue with transmitting data to users. But for this I am taking notes /researching to fix the bugs.
 
 Danyal: Restarted coding because didnt like what he had. Looking to add cookies, andneeds to research how.
 
 Najib: Trying to find api for missed games and find access.
 
-Shavin: Has some basic api enpoints, but wants to choose and connect some more specific endpoints. 
-ants to add authentication.
+Shavin: Has some basic api enpoints, but wants to choose and connect some more specific endpoints. ants to add authentication.
 
 Anurag: For webscraping, trying to find a way to bypass security that is restricing his access.
 
-Andrew: Thinking of future possibilities, how to have the mouse pad as an interactive tool. will gear experiments in that direction once
-ive gained some more basic experience.
+Andrew: Thinking of future possibilities, how to have the mouse pad as an interactive tool. will gear experiments in that direction once ive gained some more basic experience.
+
 
 
 ## Feb 15th, 2023
