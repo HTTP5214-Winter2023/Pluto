@@ -70,5 +70,14 @@ list of stuff that's blocking me from moving ahead with my work:
 
 - Nothing is blocking me as of now.
 
+## March 15th 
+Last time, I worked on {Creating logic for the application and make it user friendly}.
+
+Today, I'm going to work on { researching and adding cookies to the chess score application.}
+
+list of stuff that's blocking me from moving ahead with my work:
+
+- Nothing is blocking me as of now.
+
  
  
