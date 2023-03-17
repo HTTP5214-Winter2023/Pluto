@@ -117,3 +117,15 @@ ive gained some more basic experience.
 I've started coding a little, and have been opening default presets and modifying the code to see what happens.
 Trying to get set up with a midi controller that can control my functions.
 Having some blocking problems in that the midi controller is not communication as predicted with logic x, but have an alternate plan (and youtube tutorials).
+
+
+# Mar 15
+
+- Andrew Scrum master.
+- Gajendra Note Taker.
+
+I'm kind of stuck, and this project is at the bottom of the priority pile. 
+It's the fun one, that get pushed aside for more pressing projects.
+If i can get the keyboard synced with the scripter plug in parameters, that will be good. That way, 
+users testers can turn knobs and see what happens. Tempted to tell chatgpt "write a simple javascript script that can
+manipulate pitch" and see what it spits out.
