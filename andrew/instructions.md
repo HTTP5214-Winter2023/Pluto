@@ -35,5 +35,59 @@ an intuitive place to start).
 
 -------------------------------------------------------------------------------------------------------------
 
-Test Plan Notes
+User Feedback
 
+- Danyal Chatha -
+
+* Likes - 
+
+* Dislikes - 
+
+* Recommendations - 
+
+* Questions - 
+
+
+
+- Najib Osman -
+
+* Likes - 
+
+* Dislikes - 
+
+* Recommendations - 
+
+* Questions - 
+
+
+- Anurag Negi -
+
+* Likes - 
+
+* Dislikes - 
+
+* Recommendations - 
+
+* Questions - 
+
+
+- Shavin Singh -
+
+* Likes - 
+
+* Dislikes - 
+
+* Recommendations - 
+
+* Questions - 
+
+
+- Gajendra Suwal -
+
+* Likes - 
+
+* Dislikes - 
+
+* Recommendations - 
+
+* Questions - 
