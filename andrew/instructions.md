@@ -1,10 +1,10 @@
 
-* Steps to sync midi controller to the Logic X scripter Plugin Parameters
+Steps to sync midi controller to the Logic X scripter Plugin Parameters
 
 -------------------------------------------------------------------------------------------------------------
 
-* * * Preliminary - You must have a midi track with some midi information on it, and a plugin on the channel. 
-* * * Have a midi controller (or similar device) hooked up to the computer
+Preliminary - You must have a midi track with some midi information on it, and a plugin on the channel. 
+Have a midi controller (or similar device) hooked up to the computer
 
 -------------------------------------------------------------------------------------------------------------
 
