@@ -29,6 +29,10 @@ an intuitive place to start).
 
 * Step 8 - Repeat Step 4 - 6 with Target 2, and repeat as desired.
 
+
+![demoStepsScreenshot](https://user-images.githubusercontent.com/103617658/226141157-8716ce39-705d-479a-9375-9742abe85662.jpg)
+
+
 -------------------------------------------------------------------------------------------------------------
 
 Test Plan Notes
