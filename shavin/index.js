@@ -10,7 +10,7 @@ async function getTrack(){
     // var artists = await spotify.artists(["2CIMQHirSU0MQqyYHq0eOx","57dN52uHvrHOxijzpIgu3E","1vCWHaC5f2uS3yhpwWbIA6"]);
     // console.log(track);
     //var res = await spotify.search("All Star",["track","album"]);
-    var res = await spotify.first().track("All Star");
+    var res = await spotify.first.track("All Star");
     console.log(res);
 }
 
