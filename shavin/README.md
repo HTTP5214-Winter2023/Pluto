@@ -26,3 +26,13 @@ Will be using Client Credential flow to start, as no authentication is needed. I
 ## Mar 13
 Added JSDocs to help with MVP documentation. Also, added a search interface that accepts
 a search term, and the type of item. 
+
+## Mar 15
+Will need to research How to do documentation website using Docusaurus. TH eplan for usability testing
+is to create a single HTML page environment "get Track information for this song using the JS library. Use the documentation page to help."
+
+A single page, with prompt and text box that looks like code.
+
+Setup Docusaurus for Documentation Reference. Added Getting Started steps and structure for Track, PLaylist, Artist and Podcast Endpoints.
+
+Will need to futher flesh out documentation pages, with examples and Class Definitions.

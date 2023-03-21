@@ -71,9 +71,23 @@ class Spotify {
         for(var type in res){
             searchResults[type] = res[type].items;
         }
+        
         return searchResults;
     }
 
+    first = {
+        track: async term => {
+            var res = await this.search(term, ["track"]);
+            if(!res) return null;
+            return res.tracks[0];
+        },
+
+        playlist: async term => {
+            var res = await this.search(term, ["playlist"]);
+            if(!res) return null;
+            return res.playlists[0];
+        }
+    }
 
     // @@@ ARTISTS @@@
 
