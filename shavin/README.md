@@ -22,4 +22,7 @@ Added the following endpoits
 - Get Artist
 - Get Artists
 Will be using Client Credential flow to start, as no authentication is needed. It will not be able to access user information, only publically available.
-will need to add other authorization flows before 
+
+## Mar 13
+Added JSDocs to help with MVP documentation. Also, added a search interface that accepts
+a search term, and the type of item. 
