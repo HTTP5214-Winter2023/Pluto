@@ -25,4 +25,4 @@ npm install spotify-wrapper
 yarn add spotify-wrapper
 ``` -->
 
-You are all set! head to [Usage](./usage.md).
+You are all set! head to [Usage](./usage).

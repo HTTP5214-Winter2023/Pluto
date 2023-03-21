@@ -1,8 +1,0 @@
-{
-  "label": "Wrapper API",
-  "position": 2,
-  "link": {
-    "type": "generated-index",
-    "description": "API Endpoints of the Spotify Wrapper."
-  }
-}

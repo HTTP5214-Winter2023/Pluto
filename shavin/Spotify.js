@@ -82,6 +82,18 @@ class Spotify {
             return res.tracks[0];
         },
 
+        artist: async term => {
+            var res = await this.search(term,["artist"]);
+            if(!res) return null;
+            return res.artists[0];
+        },
+
+        podcast: async term => {
+            var res = await this.search(term,["podcast"]);
+            if(!res) return null;
+            return res.podcasts[0];
+        },
+
         playlist: async term => {
             var res = await this.search(term, ["playlist"]);
             if(!res) return null;
@@ -141,6 +153,20 @@ class Spotify {
         return res;
     }
 
+        /**
+     * Gets a list of tracks specified by their track IDs
+     * @param {Array<TrackId>} tracks - Array of Track IDS
+     * @returns Array of Tracks
+     */
+        async recommendations({}){
+            if(!tracks.length) return null;
+            if(tracks.length==1) return this.track(tracks[0]);
+    
+            var query = tracks.reduce((acc,cv) => acc+","+cv);
+            var res = await call("https://api.spotify.com/v1/tracks?ids=" + query, this.headers);
+            return res;
+        }
+
     // @@@ PLAYLISTS @@@
 
     /**
@@ -150,6 +176,11 @@ class Spotify {
      */
     async playlist(playlistid){
         var res = await call("https://api.spotify.com/v1/playlists/" + playlistid, this.headers);
+        return res;
+    }
+
+    async featuredPlaylists(){
+        var res = await call("https://api.spotify.com/v1/browse/featured-playlists", this.headers);
         return res;
     }
 
