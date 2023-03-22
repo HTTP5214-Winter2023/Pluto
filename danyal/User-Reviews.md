@@ -8,10 +8,10 @@
  - Dislikes: How the name might seem offensive
  - Recommendations: Suggest to add a minus button in case of an error. Make the cookies display the number on window onload.
 
-# Gajendra Suwal
- - Likes:
- - Dislikes:
- - Recommendations:
+# Anurag Negi
+- Likes: Usage of cookies to remember score
+ - Dislikes: Retrieving score when reloading page
+ - Recommendations: Better UI 
 
 # Najib Osman
  - Likes:
