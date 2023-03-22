@@ -1,7 +1,7 @@
 # Andrew Baker
- - Likes:
- - Dislikes:
- - Recommendations:
+ - Likes: Cookies saved the score, like the live winner tracker
+ - Dislikes: N/A
+ - Recommendations: Dress up the app more, use cookies to log individual score tracker
 
 # Anuraj Neji
  - Likes:
