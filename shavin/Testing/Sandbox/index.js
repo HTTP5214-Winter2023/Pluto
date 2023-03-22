@@ -9,10 +9,8 @@
 // CREATE SPOTIFY INSTANCE
 var Spotify;
 
-
 /* -------------------------------------------------- */
 
-return Spotify.toString();
 
 async function Test3()
 {
