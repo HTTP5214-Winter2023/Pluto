@@ -19,6 +19,6 @@
  - Recommendations:
 
 # Shavin Singh
- - Likes:
- - Dislikes:
- - Recommendations:
+ - Likes: functionallity
+ - Dislikes: UI need more work page feel empty / CSS more style.
+ - Recommendations: Better visability for the winners good emotion
