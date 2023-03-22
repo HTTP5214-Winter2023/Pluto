@@ -19,7 +19,7 @@ track = await Spotify.first.track("All Star");
 See [Get Artist](../Artists/GetArtist).
 
 ```javascript
-track = await Spotify.first.playlist("Smash Mouth"); 
+track = await Spotify.first.artist("Smash Mouth"); 
 ```
 
 ## Get First Playlist
@@ -33,11 +33,6 @@ track = await Spotify.first.playlist("All Star");
 See [Get Artist](../Podcasts/Podcasts).
 
 ```javascript
-track = await Spotify.first.playlist("Smash Mouth"); 
+track = await Spotify.first.podcast("Joe Rogan"); 
 ```
 
-## Get First Show
-
-```javascript
-track = await Spotify.first.playlist("Smash Mouth"); 
-```
