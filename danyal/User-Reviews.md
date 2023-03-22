@@ -14,9 +14,9 @@
  - Recommendations: Better UI 
 
 # Najib Osman
- - Likes:
- - Dislikes:
- - Recommendations:
+ - Likes: Spmlicity of the game.
+ - Dislikes: N/A
+ - Recommendations: Make it more interacrive when there is a winner.
 
 # Shavin Singh
  - Likes: functionallity
