@@ -1,5 +1,43 @@
 # Retrospectives
 
+* Mar 22
+
+* Scrum Master Shavin
+
+* Notes Andrew
+
+Shavin
+
+- user testing page up, and documentation site up
+
+ - wants to improve upon documentation
+
+Daynal
+
+- added cookies
+
+ - wants to be able to acuratly display and save scores. 
+blocking - make more quickly responsive to score updates.
+
+Najib 
+
+
+- started project
+- started writing js
+- blocking - may need another api, or pull from multiple apis to get desired results.
+
+Gujendra 
+
+- trouble shooting password not sending to email.
+- error otp not defined
+
+Anurag
+
+- user test not ready
+- getting some errors
+- using a new package called selenium to overcome problems with cloudfare restricting web scraping.
+
+
 ## Feb 15, 2023 Retrospective
 
 Lead by : Danyal
