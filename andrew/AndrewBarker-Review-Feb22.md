@@ -22,7 +22,7 @@ https://www.macprovideo.com/video/logic-midi-fx-scripting-with-peter-schwartz/1-
 Najib was scrum master, and Andrew took notes.
 
 Daynal - brainstorming and come up with chess traking idea.
-Shavin - Researching what p[latform he want to use. Leaning towards Spotify.
+Shavin - Researching what platform he want to use. Leaning towards Spotify.
 Najib - researching, deciding if wants to track multiple sports or just one.
 Gajendra - working on wire framing and researching on OTP web app developing
 Andrew - searching for docs and articles re js in logic x. Reach out to some friends who know a little about it.

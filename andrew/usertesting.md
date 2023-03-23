@@ -8,7 +8,7 @@
 - Let them experiment and use different keys, whatever features they would like.
 
 
-* Participants - 5 (Shavin, Gajendra )
+* Participants - 5 (Danyal Chatha, Najib Osman,  )
 * Instructions - list of instructions for user testing.
 * Likes / Dislikes / Recommendations
 
