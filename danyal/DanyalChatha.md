@@ -79,5 +79,15 @@ list of stuff that's blocking me from moving ahead with my work:
 
 - Nothing is blocking me as of now.
 
+
+## March 22th 
+Last time, I worked on {Adding Cookies to the application and making user-testing documentation}.
+
+Today, I'm going to work on {finish polishing the documentation for usertesting, making changes to the application according to user recommendation}
+
+list of stuff that's blocking me from moving ahead with my work:
+
+- Nothing is blocking me as of now.
+
  
  
