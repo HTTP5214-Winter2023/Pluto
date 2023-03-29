@@ -12,6 +12,8 @@ $(function() {
         console.log($("#answer").val());
         if($("#answer").val() == tests[index].answer || !tests[index].answer){
             index++;
+            localStorage.setItem("index",index);
+
             loadTest();
         } 
         else {
@@ -24,7 +26,7 @@ $(function() {
 
 function loadTests(data) {
     tests=data.tests;
-    index=3;
+    index=localStorage.getItem("index") || 0;
     loadTest();
 
 }

@@ -5,6 +5,7 @@ Get Spotify catalog information from multiple Tracks.
 - **trackids** - Array of Spotify Track IDs.
 
 ```javascript
+Spotify.authorize();
 var tracks = await Spotify.tracks(["6VPOVkex1tTqsMlMyH8Ebf","3cfOd4CMv2snFaKAnMdnvK"]);
 ```
 

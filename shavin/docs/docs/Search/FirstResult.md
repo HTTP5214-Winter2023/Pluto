@@ -12,6 +12,7 @@ The Response is based on the category.
 ## Get First Track
 See [Get Track](../Tracks/GetTrack).
 ```javascript
+Spotify.authorize();
 track = await Spotify.first.track("All Star"); 
 ```
 
@@ -19,6 +20,7 @@ track = await Spotify.first.track("All Star");
 See [Get Artist](../Artists/GetArtist).
 
 ```javascript
+Spotify.authorize();
 track = await Spotify.first.artist("Smash Mouth"); 
 ```
 
@@ -26,6 +28,7 @@ track = await Spotify.first.artist("Smash Mouth");
 See [Get Playlist](../Playlists/GetPlaylist).
 
 ```javascript
+Spotify.authorize();
 track = await Spotify.first.playlist("All Star"); 
 ```
 
@@ -33,6 +36,7 @@ track = await Spotify.first.playlist("All Star");
 See [Get Artist](../Podcasts/Podcasts).
 
 ```javascript
+Spotify.authorize();
 track = await Spotify.first.podcast("Joe Rogan"); 
 ```
 

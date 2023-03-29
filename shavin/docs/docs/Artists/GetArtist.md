@@ -4,6 +4,7 @@ Retrieves a single artist by its Spotify ID.
 - **artistid** - 22 alphanumerical Spotify Artist ID.
 
 ```javascript
+Spotify.authorize();
 var artist = await Spotify.artist("0gxyHStUsqpMadRV0Di1Qt");
 ```
 ```json

@@ -8,6 +8,7 @@ Get a playlist owned by a Spotify user.
 - **playlistid** - Spotify playlist ID.
 
 ```javascript
+Spotify.authorize();
 var playlist = await Spotify.playlist("37i9dQZF1DZ06evO05tE88");
 ```
 ```json

@@ -21,6 +21,7 @@ Returns an Array of results, divided into the categories specified. Each categor
 
 
 ```javascript
+Spotify.authorize();
 var search = await Spotify.search("All Star", ["track","album","artist"]);
 ```
 

@@ -4,6 +4,7 @@ Retrieves a single track by its Spotify ID.
 - **trackid** - 22 alphanumerical Spotify Track ID.
 
 ```javascript
+Spotify.authorize();
 var track = await Spotify.track("6VPOVkex1tTqsMlMyH8Ebf");
 ```
 ```json

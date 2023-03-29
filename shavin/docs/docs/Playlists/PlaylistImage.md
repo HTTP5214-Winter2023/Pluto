@@ -6,6 +6,7 @@ sidebar_position: 3
 Get a list of Spotify featured playlists (shown, for example, on a Spotify player's 'Browse' tab).
 
 ```javascript
+Spotify.authorize();
 playlist_cover = await Spotify.featuredPlaylists();
 ```
 ```json

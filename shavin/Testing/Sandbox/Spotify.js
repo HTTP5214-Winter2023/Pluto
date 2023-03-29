@@ -32,7 +32,7 @@ class Spotify {
      * @returns {Boolean} Authorization result
      */
     async authorize(){
-        var res = await fetch(`https://accounts.spotify.com/api/token?grant_type=${this.authFlow}`,{
+        var res = await fetch(`https://accounts.spotify.com/api/token?grant_type=client_credentials`,{
             method:'post',
             headers:{
                 'Content-Type':'application/x-www-form-urlencoded',

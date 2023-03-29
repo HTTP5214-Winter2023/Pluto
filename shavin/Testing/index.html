@@ -17,7 +17,9 @@
                 <input name="answer" id="answer">
             </div>
             <div class="btn-tray">
+                <button type="button" onclick="localStorage.getItem('index') > 0 ?localStorage.setItem('index',localStorage.getItem('index') -1) : localStorage.setItem('index',0); location.reload();">Back</button>
                 <button type="submit">Next</button>
+
                 <p id="error">Sorry, that is incorrect. Please check your spelling and try again.</p>
 
             </div>

@@ -5,6 +5,7 @@ Get Spotify catalog information from multiple Artists.
 - **artistids** - Array of Spotify Artist IDs.
 
 ```javascript
+Spotify.authorize();
 var artists = await Spotify.artists(["0gxyHStUsqpMadRV0Di1Qt","2iEvnFsWxR0Syqu2JNopAd"]);
 ```
 ```json

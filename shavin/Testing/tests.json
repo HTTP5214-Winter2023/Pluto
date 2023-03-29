@@ -2,7 +2,7 @@
     "tests":[
         {
             "title":"Introduction",
-            "content": "You will be given a total of 5 tasks. You are to complete each task using the Spotify Wrapper module. You can use the documentation page to find the answer. Once you have the answer, input the result into the box below and click \"Next\".",
+            "content": "You will be given a total of 5 tasks. You are to complete each task using the <strong>Spotify Wrapper Object</strong>. You can use the documentation page to find the answer. Once you have the answer, input the result into the box below and click \"Next\".",
             "hasLeadingVar":true,
             "answer":null
 
@@ -15,7 +15,7 @@
         },
         {
             "title":"2. Authorization",
-            "content":"You have created a Spotify App in the Dashboard, and have got the following credentials:<pre>Client ID: <strong>0aa3cbf925b448228e34837ab5d53131</strong>\nClient Secret: <strong>2331f82245fb43ae9a05dd57477fd390</strong></pre>Create an instance of the Spotify object, and enter the results of caling <strong>toString()</strong>",
+            "content":"You have created a Spotify App in the Dashboard, and have got the following credentials:<pre>Client ID: <strong>0aa3cbf925b448228e34837ab5d53131</strong>\nClient Secret: <strong>2331f82245fb43ae9a05dd57477fd390</strong></pre>Create an instance of the Spotify object, and enter the string representation of the object.",
             "answer":"ID: 0aa3cbf925b448228e34837ab5d53131, SECRET: 2331f82245fb43ae9a05dd57477fd390",
             "leadingVar":"var Spotify = "
         },
