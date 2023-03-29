@@ -1,3 +1,37 @@
+## Mar 29
+Mar 29
+
+Gajendra
+
+- problem fixed
+- need to do user testing
+
+Shavin
+
+- usability test needs refinement
+- will change search feature to be integrated into .tracks() or .playlist()
+- will change authorization to be inherent before each call
+- MVP is done
+
+Andrew
+
+- test res: documentaiton could be spaced out
+- get into writing more javascript 
+- sandbox stage is progressing
+- MVP is completed
+
+Danyal
+- Last time, I worked on {Adding Cookies to the application and making user-testing documentation}.
+- Today, I'm going to work on {finishing polishing the documentation for user testing, and making changes to the application according to user recommendation}
+- list of stuff that's blocking me from moving ahead with my work:
+- Nothing is blocking me as of now.
+
+Najib
+- MVP is completed
+- will add features that will help with usability
+
+
+
 # Retrospectives
 
 ## Mar 22
