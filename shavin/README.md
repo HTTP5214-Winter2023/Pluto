@@ -36,3 +36,14 @@ A single page, with prompt and text box that looks like code.
 Setup Docusaurus for Documentation Reference. Added Getting Started steps and structure for Track, PLaylist, Artist and Podcast Endpoints.
 
 Will need to futher flesh out documentation pages, with examples and Class Definitions.
+
+## Mar 22
+Goal is to perform user testing. I built documentation using Docusaurus, and a testing suite for the testing. 
+
+The idea is that a user will go through the steps, using documentation and the editor to answer the qestions
+
+got 2 test done, overall poor performance from the documentaiton and testing suite, was unintuitive and caused more confusion and frustration than anything
+
+will need to improve the workflow and focus the test on the the wrapper, not the suite
+
+## Mar 29

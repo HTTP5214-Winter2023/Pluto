@@ -61,6 +61,8 @@ class Spotify {
      * @returns Search results
      */
     async search(term,types=["album","track","podcast","artist","show"]){
+        await this.authorize();
+
         var res = await call("https://api.spotify.com/v1/search?q="+term+"&type=" + types.reduce((acc,cv)=>acc+","+cv), this.headers);
         if(res['error']) return res;
 
@@ -128,11 +130,20 @@ class Spotify {
 
     /**
      * Gets a single track by ID
-     * @param {String} trackid - ID of the track
+     * @param {String} term - ID of the track or Search term
      * @returns track data
      */
-    async track(trackid){
-        var res = await call("https://api.spotify.com/v1/tracks/" + trackid, this.headers);
+    async track(term){
+
+
+        var res;
+
+        if(!isId(term)) res = await this.first.track(term);
+        else {
+            await this.authorize();
+            res = await call("https://api.spotify.com/v1/tracks/" + term, this.headers);
+        }
+
         return res;
     }
 
@@ -141,9 +152,18 @@ class Spotify {
      * @param {Array<TrackId>} tracks - Array of Track IDS
      * @returns Array of Tracks
      */
-    async tracks(tracks=[]){
+    async tracks(tracks){
         if(!tracks.length) return null;
-        if(tracks.length==1) return this.track(tracks[0]);
+        if(typeof(tracks) == "string") {
+            var track = track;
+            var res = await this.search(track,['track']);
+            return res;
+        }
+
+
+        var res;
+
+        if(!isId(term)) res = await this.first.track(term);
 
         var query = tracks.reduce((acc,cv) => acc+","+cv);
         var res = await call("https://api.spotify.com/v1/tracks?ids=" + query, this.headers);
@@ -168,10 +188,16 @@ class Spotify {
 
     /**
      * Gets a single playlist by ID
-     * @param {String} playlistid - ID of the playlist
+     * @param {String} term - ID of the playlist or search term
      * @returns playlist data
      */
-    async playlist(playlistid){
+    async playlist(term){
+        await this.authorize();
+
+        var res;
+
+        if(!isId(term)) res = await this.first.playlist(term);
+
         var res = await call("https://api.spotify.com/v1/playlists/" + playlistid, this.headers);
         return res;
     }
@@ -198,6 +224,11 @@ class Spotify {
  */
 function createSpotify(clientid, clientsecret) {
     return new Spotify(clientid, clientsecret);
+}
+
+function isId(query){
+    var idRegEx = /^[a-zA-z0-9]{22}$/;
+    return idRegEx.test(query);
 }
 
 module.exports = {
