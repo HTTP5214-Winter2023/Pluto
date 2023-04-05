@@ -125,8 +125,8 @@ var ARRAY_OF_CHORDS = [];
 //low E = 40
 
 //C
-ARRAY_OF_CHORDS.push(new Chord("C Major", [48, 55, 60, 64, 67]));
-ARRAY_OF_CHORDS.push(new Chord("C Minor", [48, 55, 60, 63, 67]));
+ARRAY_OF_CHORDS.push(new Chord("C Major", [48, 55, 60, 64, 69]));
+ARRAY_OF_CHORDS.push(new Chord("C Minor", [48, 55, 60, 63, 69]));
 ARRAY_OF_CHORDS.push(new Chord("C Diminished", [48, 54, 57, 63, 69]));
 ARRAY_OF_CHORDS.push(new Chord("C Power Chord", [48, 55]));
 //C#
