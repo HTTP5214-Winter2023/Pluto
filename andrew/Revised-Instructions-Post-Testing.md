@@ -31,15 +31,22 @@ an intuitive place to start).
 
 -------------------------------------------------------------------------------------------------------------
 ![Step1](https://user-images.githubusercontent.com/103617658/230815361-e0d2bad3-f5f7-4b1b-a15b-39adecc7723f.JPG)
+
 ![Step2](https://user-images.githubusercontent.com/103617658/230815456-a4f375b4-905d-4512-a229-25ca82ba08ab.JPG)
+
 ![Step3](https://user-images.githubusercontent.com/103617658/230815500-c94162c1-eab9-4a89-9ba5-0958ba01a4cb.JPG)
+
 ![Step4](https://user-images.githubusercontent.com/103617658/230815540-601bf323-77bc-4e40-805f-192dcd9657b3.JPG)
+
 ![Step5](https://user-images.githubusercontent.com/103617658/230815594-62911e15-92c0-4f49-a92f-d4b11351237d.JPG)
+
 ![Step6](https://user-images.githubusercontent.com/103617658/230815641-e373b3c6-1c2a-42f2-ad31-10ed200fa70f.JPG)
+
 ![Step7](https://user-images.githubusercontent.com/103617658/230815689-a067ba88-08db-44ce-ae40-aedb39f36817.jpg)
+
 ![Step8](https://user-images.githubusercontent.com/103617658/230815733-05b0a360-c23a-4a01-b055-c88b344b68eb.JPG)
 
-https://gist.github.com/AndrewJamesBarker/5126cf7b1e628f4a8f1d5be7686f5596?permalink_comment_id=4531649#gistcomment-4531649
+
 
 * All Steps
 
