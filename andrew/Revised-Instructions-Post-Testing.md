@@ -46,8 +46,3 @@ an intuitive place to start).
 
 ![Step8](https://user-images.githubusercontent.com/103617658/230815733-05b0a360-c23a-4a01-b055-c88b344b68eb.JPG)
 
-
-
-* All Steps
-
-![demoStepsScreenshot](https://user-images.githubusercontent.com/103617658/226141157-8716ce39-705d-479a-9375-9742abe85662.jpg)
