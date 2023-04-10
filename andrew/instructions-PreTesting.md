@@ -23,11 +23,13 @@ an intuitive place to start).
 
 * Step 5 - Touch and alter your choice parameter on the channel strip plugin.
 
-* Step 6 - Test if patching worked, and play around wit effect.
+* Step 6 - Click "Learn Midi Input" and select (adjust setting) control knob (or key) on your midi controller which you desire to control the effect.
 
-* Step 7 (optional) - Analyze and edit javascript code. Demonstration of code alteration.
+* Step 7 - Test if patching worked, and play around with effect. Repeat Step 4 - 6 with Target 2, and repeat as desired (Target 3, 4 etc..)
 
-* Step 8 - Repeat Step 4 - 6 with Target 2, and repeat as desired.
+* Step 8 (optional) - Analyze and edit javascript code. 
+
+
 
 
 ![demoStepsScreenshot](https://user-images.githubusercontent.com/103617658/226141157-8716ce39-705d-479a-9375-9742abe85662.jpg)
