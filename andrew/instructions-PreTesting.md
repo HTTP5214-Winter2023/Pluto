@@ -21,14 +21,13 @@ an intuitive place to start).
 
 * Step 4 - Set Target 1 to 'Learn Plugin Parameter'.
 
-* Step 5 - Touch and alter your choice parameter on the channel strip plugin.
+* Step 5 - Open Channel strip plugin effect and touch and alter your choice parameter on the channel strip plugin.
 
 * Step 6 - Click "Learn Midi Input" and select (adjust setting) control knob (or key) on your midi controller which you desire to control the effect.
 
 * Step 7 - Test if patching worked, and play around with effect. Repeat Step 4 - 6 with Target 2, and repeat as desired (Target 3, 4 etc..)
 
-* Step 8 (optional) - Analyze and edit javascript code. 
-
+* Step 8 (Optional/NextSteps) - Analyze and edit javascript code. See "Code Examples".
 
 
 
