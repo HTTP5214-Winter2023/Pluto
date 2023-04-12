@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Spotify Wrapper Test</title>
+    <link href="style.css" rel="stylesheet">
+    <script src="https://code.jquery.com/jquery-3.6.1.min.js"></script>
+    <script src="script.js"></script>
+</head>
+<body>
+    <div class="wrapper">
+        <h1 id="title">Hello Tester!</h1>
+        <p id="content"></p>
+        <form name="answer_form" id="answer_form" method="post">
+            <div class="form_input">
+                <label id="leadingVar" for="answer"></label>
+                <input name="answer" id="answer">
+            </div>
+            <div class="btn-tray">
+                <button type="button" onclick="localStorage.getItem('index') > 0 ?localStorage.setItem('index',localStorage.getItem('index') -1) : localStorage.setItem('index',0); location.reload();">Back</button>
+                <button type="submit">Next</button>
+
+                <p id="error">Sorry, that is incorrect. Please check your spelling and try again.</p>
+
+            </div>
+        </form>
+    </div>
+
+</body>
+</html>
