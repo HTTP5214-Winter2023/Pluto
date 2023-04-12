@@ -3,6 +3,7 @@ var Spotify = createSpotify('0aa3cbf925b448228e34837ab5d53131','2331f82245fb43ae
 Spotify.setAuth("client_credentials")
 
 async function getTrack(){
+
     // var res = await spotify.track("3zb9k8UUuKz5tYmKJvNqQA");
     // var tracks = await spotify.tracks(["7ouMYWpwJ422jRcDASZB7P","4VqPOruhp5EdPBeR92t6lQ","2takcwOaAZWiXQijPHIx7B"]);
     // var artist = await spotify.artist("0TnOYISbd1XYRBk9myaseg");
@@ -10,7 +11,7 @@ async function getTrack(){
     // console.log(track);
     // var res = await spotify.search("All Star",["track","album"]);
     // var res = await spotify.first.track("Jazzy techo");
-    var res = await Spotify.track("3zb9k8UUuKz5tYmKJvNqQA");
+    var res = await Spotify.track("Life goes on Oliver Tree");
     console.log(res);
 }
 

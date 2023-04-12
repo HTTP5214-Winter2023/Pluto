@@ -11,6 +11,7 @@ class Spotify {
     constructor(_id, _secret){
         this.client_id = _id;
         this.secret = _secret;
+        this.setAuth('client_credentials');
         this.authorize();
     }
 
@@ -41,6 +42,7 @@ class Spotify {
         })
         .catch(e => { return false; })
         .then(d => d.json());
+
 
         if(!res) return false;
 
@@ -135,7 +137,7 @@ class Spotify {
      */
     async track(term){
 
-
+        console.log("this is the term",term);
         var res;
 
         if(!isId(term)) res = await this.first.track(term);
@@ -146,11 +148,6 @@ class Spotify {
 
         return res;
     }
-
-    async track(trackName, artistName){
-        var res = await this.first.track();
-    }
-
 
     /**
      * Gets a list of tracks specified by their track IDs
