@@ -1,18 +1,19 @@
-## Project Notes - OTP(One Time Password) Generator Application
-# Overview
-*This document provides an overview of the project notes for the OTP (one time password) web app development. The project team is working on wireframing, researching, and developing the OTP web application.*
+# Project Notes - OTP(One Time Password) Generator Application
+### Overview
+*This document provides an overview of the project notes for the OTP (one time password) web app development.*
 
 -----------------------------------------------------------------
-# February 1st, 2023
+## February 1st, 2023
 -----------------------------------------------------------------
 *My Notes*
 * Planned to either develop a portfolio website or an OTP app.
 * Started developing the wireframes for the OTP app.
+* Next step would be to do the research and see the notes available.
 
 -----------------------------------------------------------------
-# February 8th, 2023
+## February 8th, 2023
 -----------------------------------------------------------------
- Assigned to **Scrum Lead**
+ Assigned to **Scrum Master**
 
 *My Notes*
 * Switched for developing the OTP app.
@@ -21,7 +22,7 @@
 
 
 -----------------------------------------------------------------
-# February 15th, 2023
+## February 15th, 2023
 -----------------------------------------------------------------
 Assigned to **Notes Taker**
 *My Notes*
@@ -31,7 +32,7 @@ Assigned to **Notes Taker**
 
 
 -----------------------------------------------------------------
-# February 22nd, 2023
+## February 22nd, 2023
 -----------------------------------------------------------------
 
 *My Notes*
@@ -42,7 +43,7 @@ Assigned to **Notes Taker**
 
 
 -----------------------------------------------------------------
-# March 8th, 2023
+## March 8th, 2023
 -----------------------------------------------------------------
 
 *My Notes*
@@ -52,9 +53,9 @@ Assigned to **Notes Taker**
 
 
 -----------------------------------------------------------------
-# March 22nd, 2023
+## March 22nd, 2023
 -----------------------------------------------------------------
-Participants: Gajendra
+
 *My Notes*
 * Completed the troubleshooting where password generation failed
 * Error discovered was one password not defined
@@ -63,7 +64,7 @@ Participants: Gajendra
 
 
 -----------------------------------------------------------------
-# March 29th, 2023
+## March 29th, 2023
 -----------------------------------------------------------------
 
 *My Notes*
@@ -72,9 +73,9 @@ Participants: Gajendra
 
 
 -----------------------------------------------------------------
-# April 5th, 2023
+## April 5th, 2023
 -----------------------------------------------------------------
-Participants: Gajendra
+
 *My Notes*
 * Completed user testing last week
 * Worked on documentation and made improvements based on the recommendations from user testing.
@@ -83,7 +84,7 @@ Participants: Gajendra
 
 
 -----------------------------------------------------------------
-# April 12th, 2023
+## April 12th, 2023
 -----------------------------------------------------------------
 Assigned for **Notes taking**
 *My Notes*
