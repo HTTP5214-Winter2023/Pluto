@@ -1,3 +1,51 @@
+## April 12, 2023
+
+Scrum Master: Danyal
+Notes: Gajendra
+
+Gajendra
+
+- Working on the documentation and organizing the files
+- worked on the recommendation from the user testging
+-blocking:No blocking
+
+Shavin
+
+-Pretty much done, and functional
+-things working exactly what wanted to
+-Documentation yet to be done
+-Next step:what can be done better or what are the endpoint
+-blocking:No
+
+Andrew
+
+-Revision in user testing
+-Adding instruction on step by step
+-Organizing the folder and push in the git
+-Next step: try to do more request
+-Blocking: find the details to do pull request
+
+
+Danyal
+-Did recommendation from user
+-working on code review
+-Next step:adding comment to the code/for better understandable
+-Blocking:no
+
+Najib
+- working on the sport team and tyring to have the pop up
+-blocking:no blcoking
+-Next step:adding the next player in the team
+
+Anurag
+-UI is done
+-Next step:-Finishing the multi search functions
+-Blocking: No blockers
+
+
+
+
+
 # April 5
 
 Shavin Scrum
