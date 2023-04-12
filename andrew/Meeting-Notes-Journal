@@ -191,7 +191,31 @@ review gajendras project, user test Gajendra's password generating app.
 Shavin Scrum
 Andrew Notes
 
-- Discussing plan for code review. Will have revisions ready for code review within 2-3 weeks.
+- Najib: done:enter key works to search for team
+working on:figuring out how to add a pop up to display list of team players when user clicks on a card 
+next step:adding more teams for different sports 
+Blocking:no block
+- Gajendra: for my update: i did user testing last week and now just doing my documentation
+blocking:no blocking
+- Anurag: Done: multi player search request
+Working on: UI for multiplayer search
+Next Step: automatically add from clipboard
+Blocking: No Block 
+Shavin: 
+- Danyal: Done: Adding  most user recommendations, and finalized user-testing documentation.
+Next Steps: finish adding user recommendations and improve the M.V.P.
+Block: No blockages.
+-Shavin: Usability feedback intigration and update features for search.
+- Andrew: Discussing plan for code review. Will have revisions ready for code review within 2-3 weeks.
 - To do, push current versions so as to have something to compare with. Should we trial run a code review?
 - I want to to configure some alternate code for my own chord parameters for the 'guitar arpeggio'.
 - My code review will be a revised user guide to getting started incorporating the user test feedback.
+- Just Shavin and Andrew in class
+
+
+# April 12
+
+- figure out pull request logistics.
+- make pull request for code review.
+- discussions and clarifying with Simon.
+- update meeting notes in main branch
