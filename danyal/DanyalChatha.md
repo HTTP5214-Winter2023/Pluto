@@ -83,11 +83,22 @@ list of stuff that's blocking me from moving ahead with my work:
 ## March 22th 
 Last time, I worked on {Adding Cookies to the application and making user-testing documentation}.
 
-Today, I'm going to work on {finish polishing the documentation for usertesting, making changes to the application according to user recommendation}
+Today, I'm going to work on {finish polishing the documentation for user testing, making changes to the application according to user recommendation}
 
 list of stuff that's blocking me from moving ahead with my work:
 
 - Nothing is blocking me as of now.
+
+## April 12th
+
+Last time, I worked on {Finshed the user documentation, applied the recommendation to the application}.
+
+Today, I'm going to work on {Pushing my code for review and adding comments to my code to make it easier to understand}
+
+list of stuff that's blocking me from moving ahead with my work:
+
+- Nothing is blocking me as of now.
+
 
  
  
