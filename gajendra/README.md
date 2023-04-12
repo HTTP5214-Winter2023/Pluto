@@ -1,4 +1,5 @@
-# Project Notes - OTP(One Time Password) Generator Application
+# Project Name -- OTP(One Time Password) Generator Application
+# Logs, et al & Notes 
 ### Overview
 *This document provides an overview of the project notes for the OTP (one time password) web app development.*
 
