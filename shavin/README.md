@@ -47,3 +47,5 @@ got 2 test done, overall poor performance from the documentaiton and testing sui
 will need to improve the workflow and focus the test on the the wrapper, not the suite
 
 ## Mar 29
+
+Reviewed code for others, updated Spotify wrapper to now have the search integrated into track() and playlist() functions, rather than the .first. by default, you can retrieve the first result by searching for a track. Though this introduces a level of variability that might result in incorrect results.
