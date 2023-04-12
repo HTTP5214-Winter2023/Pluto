@@ -1,0 +1,221 @@
+Andrew Barker's repo clone and branch for Http 5214.
+
+# Stand-up log for Andrew Barker
+
+## Jan 18th
+
+Last time, I worked on brainstorming and researching project ideas. Coding js in logic x, 
+and learning max msp. All for the purpose of learning to make music in programming
+
+Today, I'm going to work on figuring github stuff out.
+
+Here's a list of stuff that's blocking me from moving ahead with my work:
+
+- had trouble with creating my own branch, but figured it out.
+
+## Jan 25
+
+scrum master Andrew Barker
+
+Built Team PlutoJS
+
+Figure out what goals each member has.
+
+Members:
+
+Andrew Barker - js scripting midi music.
+Najib Osman - sports filtering via fav teams and missed scores.
+Shavin Singh - spotify node wrapper.
+Gajendra Suwal - portfolio.
+
+## Feb 1
+
+## Standup
+
+Najib was scrum master, and Andrew took notes.
+
+Daynal - brainstorming and come up with chess traking idea.
+Shavin - Researching what p[latform he want to use. Leaning towards Spotify.
+Najib - researching, deciding if wants to track multiple sports or just one.
+Gajendra - working on wire framing and researching on OTP web app developing
+
+work through git exercises
+create our own git repo for team pluto
+personal goals more research, and get ready to write some simple js scripts
+within logic x
+
+## Feb 8
+
+## Standup
+
+- scrum master standup Gajendra
+- Shavin took notes
+- personal goals are to start coding.
+- discussed idea with a senior dev last week, Avi Granite, and he
+gave me some ideas for where to start
+- reorganizing git folder system - individual folders in main, so when we all merge we wont have conflicts.
+will keep individual notes, but keep a common stand-up log.
+
+// retrospective //
+
+## Feb 15
+
+Feb 15, 2023 Retrospective
+
+The github repo is not effective, the current setup will cause issues when merging into a single main branch in the future
+
+currently, there is a single repo and README, that everyone is editing and updating, on individual branch
+will need to restructure to account for future merging
+create a main README that will act as the team meeting
+create individual work folders that wewill place our individual work into
+place README in each folder, which will be individual notes
+create branches off of main and only put our work in OUR folder
+protect the github main branch from being modified
+The KANBAN Trello board is not being used, feature tracking is not available
+
+will need to identify features to add to the board
+
+## Standup
+
+- Scrum master Danyal
+- Gajendra took notes.
+- Watched a youtube vid getting started coding. figured out how to engage the plugin.
+- brainstorm new ideas with mousepad as interactive tool, not sure if ill get there for this project
+but im going to look into it more.
+
+
+
+
+# Feb 22
+
+- I took notes.
+- We started a kanban board and each added some stickies/tasks.
+- would like to start coding, but alas...more busy work.
+- had a meeting. Start putting docs together and organizing for report due on friday.
+
+Group notes:
+
+Gajendra:  Recently I am working on refining the CSS sector and JavaScript part . And my Blocking is: Having issue with transmitting data to users. But for this I am taking notes /researching to fix the bugs.
+
+Danyal: Restarted coding because didnt like what he had. Looking to add cookies, andneeds to research how.
+
+Najib: Trying to find api for missed games and find access.
+
+Shavin: Has some basic api enpoints, but wants to choose and connect some more specific endpoints. 
+ants to add authentication.
+
+Anurag: For webscraping, trying to find a way to bypass security that is restricing his access.
+
+Andrew: Thinking of future possibilities, how to have the mouse pad as an interactive tool. will gear experiments in that direction once
+ive gained some more basic experience.
+
+# Mar 8
+
+- Anurag was scrum master.
+- Najib was note taker.
+
+I've started coding a little, and have been opening default presets and modifying the code to see what happens.
+Trying to get set up with a midi controller that can control my functions.
+Having some blocking problems in that the midi controller is not communication as predicted with logic x, but have an alternate plan (and youtube tutorials).
+
+
+# Mar 15
+
+- Andrew Scrum master.
+- Gajendra Note Taker.
+
+I'm kind of stuck, and this project is at the bottom of the priority pile. 
+It's the fun one, that get pushed aside for more pressing projects.
+If i can get the keyboard synced with the scripter plug in parameters, that will be good. That way, 
+users testers can turn knobs and see what happens. Tempted to tell chatgpt "write a simple javascript script that can
+manipulate pitch" and see what it spits out.
+
+
+#  Mar 22
+
+* Scrum Master Shavin
+
+* Notes 
+
+Andrew
+
+- user testing 
+- note taking
+- review document preparing
+
+Shavin
+
+- user testing page up, and documentation site up
+
+ - wants to improve upon documentation
+
+Daynal
+
+- added cookies
+
+ - wants to be able to acuratly display and save scores. 
+blocking - make more quickly responsive to score updates.
+
+Najib 
+
+
+- started project
+- started writing js
+- blocking - may need another api, or pull from multiple apis to get desired results.
+
+Gujendra 
+
+- trouble shooting password not sending to email.
+- error otp not defined
+
+Anurag
+
+- user test not ready
+- getting some errors
+- using a new package called selenium to overcome problems with cloudfare restricting web scraping.
+
+# Mar 29th
+
+- Scrum master Andrew
+
+- scrum meeting: I ran scrum and shavin took notes. Take account of everyones progress and pushed to git
+
+- Retrospective: reviewed groups members work (Najib, Shavin, Me, Gajendra, Daynal)
+
+- sprint: Just keep going with projects and prepare for code review.
+
+review gajendras project, user test Gajendra's password generating app.
+
+# April 5
+
+Shavin Scrum
+Andrew Notes
+
+- Najib: done:enter key works to search for team
+working on:figuring out how to add a pop up to display list of team players when user clicks on a card 
+next step:adding more teams for different sports 
+Blocking:no block
+- Gajendra: for my update: i did user testing last week and now just doing my documentation
+blocking:no blocking
+- Anurag: Done: multi player search request
+Working on: UI for multiplayer search
+Next Step: automatically add from clipboard
+Blocking: No Block 
+Shavin: 
+- Danyal: Done: Adding  most user recommendations, and finalized user-testing documentation.
+Next Steps: finish adding user recommendations and improve the M.V.P.
+Block: No blockages.
+-Shavin: Usability feedback intigration and update features for search.
+- Andrew: Discussing plan for code review. Will have revisions ready for code review within 2-3 weeks.
+- To do, push current versions so as to have something to compare with. Should we trial run a code review?
+- I want to to configure some alternate code for my own chord parameters for the 'guitar arpeggio'.
+- My code review will be a revised user guide to getting started incorporating the user test feedback.
+- Just Shavin and Andrew in class
+
+
+# April 12
+
+- figure out pull request logistics.
+- make pull request for code review.
+- discussions and clarifying with Simon.
+- update meeting notes in main branch
