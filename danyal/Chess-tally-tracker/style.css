@@ -1,3 +1,15 @@
+body {
+  background-image: url("chessboards.png");
+  background-size: cover;
+  
+}
+
+.Title{
+  color: white;
+  font-size: 40px ;
+  text-shadow: 2px 2px #FF0000, -2px -2px blue;
+}
+
 .scoreboard {
   display: flex;
   justify-content: space-around;
@@ -7,11 +19,23 @@
   margin: auto;
 }
 
-.player1, .player2 {
+.player1 {
   text-align: center;
   padding: 20px;
-  background-color: #fff;
+  background-color: rgb(133, 133, 223);
   border-radius: 10px;
+  border: 2px solid black ;
+  color: white;
+  margin-right: 10px;
+}
+
+.player2 {
+  text-align: center;
+  padding: 20px;
+  background-color: rgb(133, 133, 223);
+  border-radius: 10px;
+  border: 2px solid black ;
+  margin-right: 5px;
 }
 
 .player1 button, .player2 button {
@@ -34,6 +58,7 @@
   padding: 20px;
   background-color: #f2f2f2;
   border-radius: 10px;
+  border: 2px dotted black;
 }
 
 .winner span {
@@ -49,10 +74,14 @@ h1{
 .reset-button{
   background-color: red;
   color: #fff;
-  border: none;
+  border: 1px solid black;
   border-radius: 5px;
   padding: 10px;
   font-size: 16px;
   cursor: pointer;
   transition: all 0.5s ease;
+  margin-left: 5px;
 }
+
+
+

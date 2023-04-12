@@ -8,17 +8,25 @@ updateWinner();
 
 //update score by users
 function incrementScore(id) {
+  let playerName;
   if (id === 'score1') {
     score1++;
+    playerName = document.getElementById('player1-name').value || 'Player One';
     document.getElementById('score1').textContent = score1;
+    document.getElementById('player1-name').value = playerName;
+    document.querySelector('.player1 h2').textContent = playerName;
     setCookie('score1', score1);
   } else {
     score2++;
+    playerName = document.getElementById('player2-name').value || 'Player Two';
     document.getElementById('score2').textContent = score2;
+    document.getElementById('player2-name').value = playerName;
+    document.querySelector('.player2 h2').textContent = playerName;
     setCookie('score2', score2);
   }
   updateWinner();
 }
+
 
 //shows outcome
 function updateWinner() {
