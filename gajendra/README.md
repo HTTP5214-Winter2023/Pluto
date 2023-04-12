@@ -40,7 +40,10 @@ Najib
   -blocking:no blcoking
   -Next step:adding the next player in the team
 
-## Anurag
+ Anurag
+ -UI is done 
+ -Next step:-Finishing the multi search functions 
+ -Blocking: No blockers
 
 *********************
 Feb 8th, 2023
