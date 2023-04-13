@@ -7,25 +7,32 @@
     <title>Chess Score Tracker</title>
   </head>
   <body>
+    <!--Title-->
     <h1 class="Title">Chess Score Tracker</h1>
     <div class="scoreboard">
+      <!--Player 1 score's-->
       <div class="player1">
-        <h2>Player One </h2>
+        <h2>Player One</h2>
         <label for="player1-name">Enter your name:</label>
         <input type="text" id="player1-name" placeholder="Enter name">
         <h3>Score: <span id="score1">0</span></h3>
-        <button onclick="incrementScore('score1')">&#9823; Add Point &#9823;</button>
+        <button onclick="incrementScore('score1', true)">&#9823; Add Point &#9823;</button>
+        <button onclick="incrementScore('score1', false)">&#9822; Subtract Point &#9822;</button>
       </div>
+      <!--Player 2 score's-->
       <div class="player2">
-        <h2>Player Two </h2>
+        <h2>Player Two</h2>
         <label for="player2-name">Enter your name:</label>
         <input type="text" id="player2-name" placeholder="Enter name">
         <h3>Score: <span id="score2">0</span></h3>
-        <button onclick="incrementScore('score2')">&#9823; Add Point &#9823;</button>
+        <button onclick="incrementScore('score2', true)">&#9823; Add Point &#9823;</button>
+        <button onclick="incrementScore('score2', false)">&#9822; Subtract Point &#9822;</button>
       </div>
+      <!--Outcome for the winner-->
       <div class="winner">
         <h2>Winner: <span id="winner">&#9819; N/A</span></h2>
-      </div>      
+      </div>
+      <!--Reset button-->      
       <div class="reset">
         <button class="reset-button" onclick="resetPage()">Reset</button>
       </div>
