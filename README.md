@@ -258,7 +258,11 @@ Najib (sport team tracker)
 
 HTML, CSS part -blocking:No blocking
 NSS: HTML CSS
-Anurag -Working with the Web Scrapping project -Using Python for the coding -blocking:researching to get the spread data -NS:working on project
+
+Anurag 
+- Working with the Web Scrapping project 
+- Using Python for the coding 
+- blocking:researching to get the spread data -NS:working on project
 
 ## Feb 8th, 2023
 
