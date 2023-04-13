@@ -108,6 +108,11 @@ Najib
 - MVP is completed
 - will add features that will help with usability
 
+Anurag
+-Done: UI for single player search
+-Working on: using multi player search 
+-Next Step: UI for multiplayer search
+-Blocking: No Block
 
 
 # Retrospectives
