@@ -293,6 +293,13 @@ Najib (sport team tracker)
 - blocking: Research
 - NSS: HTML CSS
 
+Anurag
+
+- Decided to go with Web Scraping
+- Researching web scraping headless browser (Ulixee Hero) and issues with bypassing cloudflare-ddos protection
+- Deciding what data to pull from website (win-rate , matches played , total wins, no. of players banned in their games, no. of FACEIT matches 
+played)
+
 ## Feb 1st, 2023
 
 Najib: Scrum Master
@@ -313,3 +320,9 @@ Najib
 Gajendra 
 
 - working on wire framing and researching on OTP web app developing
+
+Anurag
+- Brainstorming project ideas that I have little/no experience with working on
+- Web Assembly app 
+- Web Scraping with Python
+- Discord Bot
