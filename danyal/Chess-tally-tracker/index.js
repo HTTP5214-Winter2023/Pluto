@@ -63,4 +63,3 @@ function resetPage() {
 
   // reload page
   location.reload();
-}
