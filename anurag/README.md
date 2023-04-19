@@ -1,4 +1,4 @@
-#Project Description
+# Project Description
 - CSGO ( a video game developed by Valve) does not save detailed stats of a user. All the stats that are available are private meaning they are only viewable to only the player. 
 - [CSGOSTATS](https://csgostats.gg/) is a website that tracks individual matches and logs them by using bots. This creates a database of players match history and in depth stats public to EVERYONE.
 - This website is primarily used for checking a player while in game stats for suspicious activity or just for stalking :D
@@ -8,7 +8,7 @@
 - The tool also has a ui_multi.py file to search all the players in your game (all 10 players). This is achievable by copying the server status code which is easily retrievable in game. Once again the python code will retrieve that code from the clipboard for faster realtime usage. All 10 players and stats will be displayed in a simple UI using Tkinter
 - Ideally the user would have a shortcut to launch the python fils (either single player (ui_single.py) or (ui_multi.py)
 
-#Single User Usage Demo
+# Single User Usage Demo
 
 
 
@@ -19,7 +19,7 @@ https://user-images.githubusercontent.com/63444975/233135614-42ae8977-e1f8-42db-
 
 
 
-#Multi User Usage Demo
+# Multi User Usage Demo
 
 
 
@@ -28,7 +28,7 @@ https://user-images.githubusercontent.com/63444975/233135670-788867bf-5a50-4061-
 
 
 
-#UserTesting
+# UserTesting
 
 
 Danyal 
@@ -59,7 +59,7 @@ Recommendation: probability of cheating
 
 
 
-#Logs
+# Logs
 
 ## April 12, 2023
 
