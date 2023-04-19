@@ -1,4 +1,159 @@
+## April 12, 2023
+
+Scrum Master: Danyal
+Notes: Gajendra
+
+Gajendra
+
+- Working on the documentation and organizing the files
+- worked on the recommendation from the user testging
+-blocking:No blocking
+
+Shavin
+
+-Pretty much done, and functional
+-things working exactly what wanted to
+-Documentation yet to be done
+-Next step:what can be done better or what are the endpoint
+-blocking:No
+
+Andrew
+
+-Revision in user testing
+-Adding instruction on step by step
+-Organizing the folder and push in the git
+-Next step: try to do more request
+-Blocking: find the details to do pull request
+
+
+Danyal
+-Did recommendation from user
+-working on code review
+-Next step:adding comment to the code/for better understandable
+-Blocking:no
+
+Najib
+- working on the sport team and tyring to have the pop up
+-blocking:no blcoking
+-Next step:adding the next player in the team
+
+Anurag
+-UI is done
+-Next step:-Finishing the multi search functions
+-Blocking: No blockers
+
+
+
+
+
+# April 5
+
+Shavin Scrum
+Andrew Notes
+
+- Najib: done:enter key works to search for team
+working on:figuring out how to add a pop up to display list of team players when user clicks on a card 
+next step:adding more teams for different sports 
+Blocking:no block
+- Gajendra: for my update: i did user testing last week and now just doing my documentation
+blocking:no blocking
+- Anurag: Done: multi player search request
+Working on: UI for multiplayer search
+Next Step: automatically add from clipboard
+Blocking: No Block 
+Shavin: 
+- Danyal: Done: Adding  most user recommendations, and finalized user-testing documentation.
+Next Steps: finish adding user recommendations and improve the M.V.P.
+Block: No blockages.
+-Shavin: Usability feedback intigration and update features for search.
+- Andrew: Discussing plan for code review. Will have revisions ready for code review within 2-3 weeks.
+- To do, push current versions so as to have something to compare with. Should we trial run a code review?
+- I want to to configure some alternate code for my own chord parameters for the 'guitar arpeggio'.
+- My code review will be a revised user guide to getting started incorporating the user test feedback.
+- Just Shavin and Andrew in class
+
+
+
+## Mar 29
+
+Scrum Master: Andrew
+Notes: Shavin
+
+Gajendra
+
+- problem fixed
+- need to do user testing
+
+Shavin
+
+- usability test needs refinement
+- will change search feature to be integrated into .tracks() or .playlist()
+- will change authorization to be inherent before each call
+- MVP is done
+
+Andrew
+
+- test res: documentaiton could be spaced out
+- get into writing more javascript 
+- sandbox stage is progressing
+- MVP is completed
+
+Danyal
+- Last time, I worked on {Adding Cookies to the application and making user-testing documentation}.
+- Today, I'm going to work on {finishing polishing the documentation for user testing, and making changes to the application according to user recommendation}
+- list of stuff that's blocking me from moving ahead with my work:
+- Nothing is blocking me as of now.
+
+Najib
+- MVP is completed
+- will add features that will help with usability
+
+Anurag
+-Done: UI for single player search
+-Working on: using multi player search 
+-Next Step: UI for multiplayer search
+-Blocking: No Block
+
+
 # Retrospectives
+
+## Mar 22
+
+* Scrum Master Shavin
+
+* Notes Andrew
+
+Shavin
+
+- user testing page up, and documentation site up
+
+ - wants to improve upon documentation
+
+Daynal
+
+- added cookies
+
+ - wants to be able to acuratly display and save scores. 
+blocking - make more quickly responsive to score updates.
+
+Najib 
+
+
+- started project
+- started writing js
+- blocking - may need another api, or pull from multiple apis to get desired results.
+
+Gujendra 
+
+- trouble shooting password not sending to email.
+- error otp not defined
+
+Anurag
+
+- user test not ready
+- getting some errors
+- using a new package called selenium to overcome problems with cloudfare restricting web scraping.
+
 
 ## Feb 15, 2023 Retrospective
 
@@ -103,7 +258,11 @@ Najib (sport team tracker)
 
 HTML, CSS part -blocking:No blocking
 NSS: HTML CSS
-Anurag -Working with the Web Scrapping project -Using Python for the coding -blocking:researching to get the spread data -NS:working on project
+
+Anurag 
+- Working with the Web Scrapping project 
+- Using Python for the coding 
+- blocking:researching to get the spread data -NS:working on project
 
 ## Feb 8th, 2023
 
@@ -112,26 +271,38 @@ Note Taker: Shavin
 
 Notes 
 Gajendra
+
 - Switch OTP (one time password)
 - one time password authorization
 - NS: build HTML & JS
 
 Danyal
+
 - made html, css js
 - in researching, phase not yet in dev
 - NS: Build Logic to compare tally points
 
 Shavin
+
 - blocking: research for uses of Spotify Api
 - NS: getting user research
 
 Andrew
+
 - blocking: learn Logic coding environment
 - NS: getting a script going
 
 Najib (sport team tracker)
+
 - blocking: Research
 - NSS: HTML CSS
+
+Anurag
+
+- Decided to go with Web Scraping
+- Researching web scraping headless browser (Ulixee Hero) and issues with bypassing cloudflare-ddos protection
+- Deciding what data to pull from website (win-rate , matches played , total wins, no. of players banned in their games, no. of FACEIT matches 
+played)
 
 ## Feb 1st, 2023
 
@@ -153,3 +324,9 @@ Najib
 Gajendra 
 
 - working on wire framing and researching on OTP web app developing
+
+Anurag
+- Brainstorming project ideas that I have little/no experience with working on
+- Web Assembly app 
+- Web Scraping with Python
+- Discord Bot

@@ -33,5 +33,72 @@ Today, I'm going to work on {Research how to build a tally tracker using HTML/CS
 Here's a list of stuff that's blocking me from moving ahead with my work:
 
 - Nothing is blocking me at this moment.
+
+## Feb 8th 
+Last time, I worked on {Creating my HTML/CSS/JS code}.
+
+Today, I'm going to work on {Today I am working on creating logic to compare the two tally tracker also doing research about it. Created a new Branch into the Master Branch to get team repo more clean and organized and hopefully prevent error that could have happend}.
+
+Here's a list of stuff that's blocking me from moving ahead with my work:
+
+- Nothing is blocking me at this moment (Just need to do research).
+
+## Feb 15th 
+Last time, I worked on {Creating logic for the Chess Tally application}.
+
+Today, I'm going to work on { I am still working on creating logic to compare the two tally tracker also doing research about it.}.
+
+Here's a list of stuff that's blocking me from moving ahead with my work:
+
+- Nothing is blocking me as of now.
+
+## Feb 22nd 
+Last time, I worked on {Creating logic for the Chess Tally application}.
+
+Today, I'm going to work on { I didn't like how my logic and code was structured so I restarted and re did the whole html and css also JavaScript so I am still working on the logic once again}
+
+list of stuff that's blocking me from moving ahead with my work:
+
+- Nothing is blocking me as of now.
+
+## March 7th 
+Last time, I worked on {recreating the code for all my scripting langue that I was using}.
+
+Today, I'm going to work on { I am still working on the logic once again but it is almost complete, shortly after I will make the application more user friendly.}
+
+list of stuff that's blocking me from moving ahead with my work:
+
+- Nothing is blocking me as of now.
+
+## March 15th 
+Last time, I worked on {Creating logic for the application and make it user friendly}.
+
+Today, I'm going to work on { researching and adding cookies to the chess score application.}
+
+list of stuff that's blocking me from moving ahead with my work:
+
+- Nothing is blocking me as of now.
+
+
+## March 22th 
+Last time, I worked on {Adding Cookies to the application and making user-testing documentation}.
+
+Today, I'm going to work on {finish polishing the documentation for user testing, making changes to the application according to user recommendation}
+
+list of stuff that's blocking me from moving ahead with my work:
+
+- Nothing is blocking me as of now.
+
+## April 12th
+
+Last time, I worked on {Finshed the user documentation, applied the recommendation to the application}.
+
+Today, I'm going to work on {Pushing my code for review and adding comments to my code to make it easier to understand}
+
+list of stuff that's blocking me from moving ahead with my work:
+
+- Nothing is blocking me as of now.
+
+
  
  

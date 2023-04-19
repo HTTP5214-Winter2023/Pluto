@@ -69,9 +69,9 @@ GitHub
 
 -Excel auto fill class time for timesheets as date passes
 
-
-
-
+-major blocker is confusion around when and where we will actually be doing some coding
+format of class, and the expectations on us difficult to stay on top of. Being threatend about getting an 'unsat' or not upholding expectations, while having
+no time to actually work is nerve racking.
 
 
 
