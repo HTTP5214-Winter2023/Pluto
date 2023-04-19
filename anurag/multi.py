@@ -14,7 +14,6 @@ import test
 
 
 
-
 def run():
     window = tk.Tk()
     frame = ScrollableWindow(window)
