@@ -72,7 +72,31 @@ def say_hello():
     print("Players Banned: ", players_banned)
     print("FaceIt Matches: ", faceit_matches)
 
+    window = tk.Tk()
+    window.geometry("800x800")
 
+    # set the window title
+    window.title("Display User Stats")
+
+    # create a label to display the variable
+    label = tk.Label(window, text="Displaying: ")
+    label.pack()
+
+    # create a label to display the variable
+    pname_label = tk.Label(window, text=player_name)
+    pname_label.pack()
+
+    pwin_label = tk.Label(window, text=player_win)
+    pwin_label.pack()
+
+    pmatches_label = tk.Label(window, text=player_matches)
+    pmatches_label.pack()
+
+    pfaceit_label = tk.Label(window, text=faceit_matches)
+    pfaceit_label.pack()
+
+    pbanned_label = tk.Label(window, text=players_banned)
+    pbanned_label.pack()
 
     # run the main loop of the window
     window.mainloop()
