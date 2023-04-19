@@ -58,6 +58,7 @@ Date Feburary 22, 2023
 </br>
 Work: This week i attended my group stand-up meeting with my other team members. We discussed on creating a kanban board to start to place our progress for out projects. Once that was completed, we discussed how our projects were going and if their was any blocking involved. I shared how I was still looking for a API that features missed games for the sports.
 </br>
+</br>
 Meeting:
 </br>
 Meeting name: kanban board setup/ project process stand-up meeting
@@ -71,6 +72,11 @@ Date March 8, 2023
 </br>
 Work: This week i attended my group stand-up meeting with my other team members. This week we just discussed everyone's progress on how their individual projects are going. For this week, i have finished my researching and finding an API to use for my sports tracker app.
 </br>
+</br>
+Meeting:
+</br>
+Meeting name: Project process stand-up meeting
+</br>
 Lead by Anurag
 </br>
 The documentation for this meeting can be found here:  https://github.com/HTTP5214-Winter2023/Team-Pluto/blob/master/README.md
@@ -79,6 +85,11 @@ The documentation for this meeting can be found here:  https://github.com/HTTP52
 Date March 22, 2023
 </br>
 Work: This week i attended my group stand-up meeting with my other team members. This week we discussed our progress on our projects and how everything is going. We also used the trello to track our progress and if anyone is running into blockers. For this week, i finished the HTML,CSS design for the project, and wrote the API on the javascript. The blocking i ran into is, needing another api to get the desired results.
+</br>
+</br>
+Meeting:
+</br>
+Meeting name: trello tracker/ project process stand-up meeting
 </br>
 Lead by Shavin
 </br>
@@ -89,13 +100,24 @@ Date March 29, 2023
 </br>
 Work: This week i attended my group stand-up meeting with my other team members. This week we disucssed the progress on everyone's project and how the usability testing went. For this week, i have completed the MVP for my project and decided i wanted to add more features that will help with my usability. 
 </br>
+</br>
+Meeting:
+</br>
+Meeting name: Usability testing results
+</br>
 Lead by Andrew
 </br>
 The documentation for this meeting can be found here:  https://github.com/HTTP5214-Winter2023/Team-Pluto/blob/master/README.md
 </br>
 </br>
 Date April 5, 2023
+</br>
 Work: This week i attended my group stand-up meeting with my other team members. This week we disucssed the progress on everyone's project and if there was any more features anyone wanted to add ontop of their project. For this week, i was figuring out how to make the enter key button work when a user presses on it to search for a sports team. Also, i was trying to figure out how to add a pop up to display a list of team players when the user click on a card.
+</br>
+</br>
+Meeting:
+</br>
+Meeting name: Features add-on
 </br>
 Lead by Shavin
 </br>
@@ -103,7 +125,13 @@ The documentation for this meeting can be found here:  https://github.com/HTTP52
 </br>
 </br>
 Date April 12, 2023
+</br>
 Work: This week i attended my group stand-up meeting with my other team members. We discussed our final plans on how everyone is going to complete their project or add more features ontop of their MVP. For this week, i am still figuring out how to add a pop-up displaying a list of team players when a user clicks on the card.
+</br>
+</br>
+Meeting:
+</br>
+Meeting name: final features/plans for project
 </br>
 Lead by Danyal
 </br>
