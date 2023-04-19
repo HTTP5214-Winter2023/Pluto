@@ -11,8 +11,6 @@ import tkinter as tk
 from tkinter import ttk
 import test
 
-
-
 def run():
     window = tk.Tk()
     frame = ScrollableWindow(window)
