@@ -49,3 +49,16 @@ will need to improve the workflow and focus the test on the the wrapper, not the
 ## Mar 29
 
 Reviewed code for others, updated Spotify wrapper to now have the search integrated into track() and playlist() functions, rather than the .first. by default, you can retrieve the first result by searching for a track. Though this introduces a level of variability that might result in incorrect results.
+
+## April 5
+
+Performed Usability testing, created a suite for testing environment. users will be asked to interact with wrapper and documentation then psot their request in the suite to verify if it was correct. there will be a list of 5 questions as outlined in the usability report.
+
+Overall, the testing was effective as I will need to implement features that simplify the endpoints. for instance, rather than only having a dedicated search() feature, have a first-search option added to track() so that a user could just use Spotify.track("Song name") rather than just the ID. Testers showed this is the assumed behavior.
+
+Documentation will also need to be updated to include a working example of code, rather than a single line. Users would copy code directly from the docs, without necesarrily reading all of the text that explained the steps prior. 
+
+Authoization will also need to be simplified, as it is unintuitive to authorize at the top of the function.
+
+## April 12
+Moved authroization to tracks, now user only needs to call Spotify.track() without needing to specify authorize(). Removed the requirement for specififying authorization type. if it is not sp[ecified it implies client credentials flow.
