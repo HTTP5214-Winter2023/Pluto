@@ -7,11 +7,11 @@ given a test environment with the Spotify Credentials (secret and ID) provided. 
 5 tasks that willl test the various features of the Wrapper. They will have access to the Base Spotify.js file and
 The documentation site. the 5 questsion will be as such:
 
-1.
-2.
-3.
-4.
-5.
+1. What authentication method is currently supported? (client_credentials)
+2. You have created a Spotify App in the Dashboard, and have got the following credentials (Provide credentials). Create an instance of the Spotify object, and enter the string representation of the object. ("ID: Client ID, SECRET: Client Secret")
+3. What is the name of the track with the ID 04KsMCb9PZE2S0AtUU8Jhb? paste it below. ("April Showers")
+4. What is the Track ID for the song "Life Goes On" by Oliver Tree? paste the result below. ("0eu4C55hL6x29mmeAjytzC")
+5. What is the title of the first Track result when I search "Jazzy techo" (Changes daily, will need to research before test)
 
 ## Participants
 Participants will have a varying degree of familiarity with spotify API, and with varying degree of Documenation skills.
